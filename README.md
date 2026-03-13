@@ -19,9 +19,11 @@ Aplikasi ini dibangun untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pem
 #### 1. Halaman Login (Responsif)
 | Mode Portrait | Mode Landscape |
 |---|---|
-| ![Login Portrait](link_gambar_disini) | ![Login Landscape](link_gambar_disini) |
+| ![Login Portrait](<img width="1080" height="2400" alt="Screenshot_20260314_003614" src="https://github.com/user-attachments/assets/2f4620ca-8446-470f-9913-798158faa70c" />
+ambar_disini) | ![Login Landscape](<img width="2400" height="1080" alt="Screenshot_20260314_003754" src="https://github.com/user-attachments/assets/bb438b17-49bf-4686-aabe-d2b6e25c2447" />) |
+
 
 #### 2. Halaman Panel Generator
 | Input Data | Hasil Generate (If-Else & Loop) |
 |---|---|
-| ![Panel Input](link_gambar_disini) | ![Panel Output](link_gambar_disini) |
+| ![Panel Input](<img width="339" height="230" alt="Tangkapan Layar 2026-03-14 pukul 00 47 53" src="https://github.com/user-attachments/assets/008b0ca8-9ffc-4b19-919b-0db3c6ad36d8" /> | ![Panel Output](<img width="332" height="322" alt="Tangkapan Layar 2026-03-14 pukul 00 48 06" src="https://github.com/user-attachments/assets/dca32ff2-adbb-4f6b-ae11-8b257afa45e4" />) |
